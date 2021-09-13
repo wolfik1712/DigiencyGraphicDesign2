@@ -1,0 +1,12 @@
+@media (max-width: 1190px) {
+  .newPage {
+    width: 60%;
+  }
+  .newPage .newPost {
+    width: 80%;
+  }
+  .newPage .newPost img {
+    width: 60%;
+  }
+}
+/*# sourceMappingURL=_media.css.map */
